@@ -1,2 +1,2 @@
 <?php
-echo '这是php5的'
+echo '这是php5的'；
